@@ -28,7 +28,7 @@
 ## 🏆 Achievements  
 
 **Projects**
-- ⭐️[**AutoFiC**](https://github.com/AutoFiC)⭐️– AI-powered automated vulnerability detection and patching pipeline  
+- ⭐️[**AutoFiC**](https://github.com/AutoFiC)⭐ – AI-powered automated vulnerability detection and patching pipeline  
 - [**Crackle**](https://github.com/WoW-Crackle) – Web security learning platform  
 - [**Touch Authentication System**](https://github.com/DSWU-BackDoor/2025_KUCIS_Android) – Behavioral biometrics research project  
 
@@ -40,10 +40,3 @@
 **Awards**
 - Academic Excellence Scholarship (Spring 2023 – Fall 2024)  
 - 2nd Place, Department Hackathon 2024 – [Next-Bridge Project](https://github.com/inyeongjang/NextBridge_Hackathon)
-
-
-## 📬 Contact  
-- Email: 726jang@gmail.com 
-- LinkedIn: [linkedin.com/in/inyoung-jang](https://www.linkedin.com/in/인영-장-4184252b2/)  
-- Blog: [inyeongj.tistory.com](https://inyeongj.tistory.com/)  
-- GitHub Pages: *(to be updated)*  
