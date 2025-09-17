@@ -44,7 +44,7 @@
 
 **Awards**
 - Academic Excellence Scholarship (Spring 2023 – Fall 2024)  
-- 2nd Place, Department Hackathon 2024 – [Next-Bridge Project](https://github.com/inyeongjang/Next-Bridge)  
+- 2nd Place, Department Hackathon 2024 – [Next-Bridge Project](https://github.com/inyeongjang/NextBridge_Hackathon)
 
 
 ## 📬 Contact  
