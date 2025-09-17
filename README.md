@@ -7,14 +7,20 @@
 - Interests: **Cybersecurity, Large Language Models (LLMs), and Software Engineering**
 
 ## ⚙️ Tech Stack  
+
 **Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,c,kotlin" />
 </p>
 
-**Frameworks & Tools**  
+**Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,linux,docker,git,github,visualstudio,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,flask,django" />
+</p>
+
+**Tools & Platforms**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,linux,docker,git,github,vscode,visualstudio,androidstudio" />
 </p>
 
 ## 🧩 Algorithm 
@@ -40,7 +46,7 @@
 - *(to be updated)*  
 
 ## 📬 Contact  
-- Email: **726jang@gmail.com**  
+- Email: 726jang@gmail.com 
 - LinkedIn: [linkedin.com/in/inyoung-jang](https://www.linkedin.com/in/인영-장-4184252b2/)  
 - Blog: [inyeongj.tistory.com](https://inyeongj.tistory.com/)  
 - GitHub Pages: *(to be updated)*  
