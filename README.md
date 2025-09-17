@@ -43,7 +43,9 @@
 - [Wemix Ecosystem: WEMADE’s Vision for a Blockchain Mega-Ecosystem](https://medium.com/gopax/위메이드가-꿈꾸는-블록체인-메가-에코-시스템-위믹스-wemix-생태계-톺아보기-e44922395010)  
 
 **Awards**
-- *(to be updated)*  
+- Academic Excellence Scholarship (Spring 2023 – Fall 2024)  
+- 2nd Place, Department Hackathon 2024 – [Next-Bridge Project](https://github.com/inyeongjang/Next-Bridge)  
+
 
 ## 📬 Contact  
 - Email: 726jang@gmail.com 
