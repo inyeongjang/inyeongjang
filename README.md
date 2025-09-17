@@ -33,7 +33,7 @@
 ## 🏆 Achievements  
 
 **Projects**
-- [**AutoFiC**](https://github.com/AutoFiC) – AI-powered automated vulnerability detection and patching pipeline  
+- ⭐️[**AutoFiC**](https://github.com/AutoFiC)⭐️– AI-powered automated vulnerability detection and patching pipeline  
 - [**Crackle**](https://github.com/WoW-Crackle) – Web security learning platform  
 - [**Touch Authentication System**](https://github.com/DSWU-BackDoor/2025_KUCIS_Android) – Behavioral biometrics research project  
 
