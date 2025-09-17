@@ -8,14 +8,9 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages**  
+**Languages & Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,kotlin" />
-</p>
-
-**Frameworks**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,nodejs,flask,django" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,kotlin,express,nodejs,flask,django" />
 </p>
 
 **Tools & Platforms**  
