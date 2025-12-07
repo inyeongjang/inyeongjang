@@ -28,10 +28,11 @@
 ## 🏆 Achievements  
 
 **Projects**
-- ⭐️[**AutoFiC**](https://github.com/AutoFiC)⭐ – AI-powered automated vulnerability detection and patching pipeline  
-- [**Crackle**](https://github.com/WoW-Crackle) – Web security learning platform  
+- [**AutoFiC**](https://github.com/AutoFiC) : AI-powered automated vulnerability detection and patching pipeline  
+- [**Crackle**](https://github.com/WoW-Crackle) : Web security learning platform  
 
 **Papers & Publications**
+- **SCSC : Supply Chain Security Cross-reference Framework and Platform Proposal** (submitted to [CISC-W’25](https://cisc.or.kr/))
 - [Understanding and Applications of Zero-Knowledge Proofs](https://xangle.io/research/detail/1612)  
 - [Why Binance Dreams of the Korean Market](https://academy.gopax.co.kr/bainaenseuneun-wae-hangugsijangeul-ggumgguna/)  
 - [Wemix Ecosystem: WEMADE’s Vision for a Blockchain Mega-Ecosystem](https://medium.com/gopax/위메이드가-꿈꾸는-블록체인-메가-에코-시스템-위믹스-wemix-생태계-톺아보기-e44922395010)  
