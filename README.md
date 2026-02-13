@@ -1,4 +1,4 @@
-🔗 [Portfolio]
+🔗 [Portfolio](https://inyeongjang.github.io/)
 
 
-📄 [CV]
+📄 [CV](https://inyeongjang.github.io/papers/cv.pdf)
